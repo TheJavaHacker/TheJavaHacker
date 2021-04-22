@@ -17,8 +17,7 @@ Hello Ladies and Gentlemen.
 Project Title | Status
 ------------- | ------------
 KyraHosting LTD | Production
-KyraTechnologies | IN-DEV
-KyraMCN | Research & Dev
+Central-Games | In-Dev
 BGHDDevelopment | Production
 T.A.H.I.T.I. | Research & Dev
 
