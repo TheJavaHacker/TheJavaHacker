@@ -17,8 +17,8 @@ Hello Ladies and Gentlemen.
 Project Title | Status
 ------------- | ------------
 KyraHosting LTD | Production
-Central-Games | In-Dev
-BGHDDevelopment | Production
+Hystom™️ | In-Dev
+BGHDDevelopment | Production/Management
 T.A.H.I.T.I. | Research & Dev
 
 [![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThejavaHacker&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
